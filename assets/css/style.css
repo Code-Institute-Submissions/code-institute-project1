@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Merriweather&family=Oswald:wght@300&family=Source+Sans+Pro:wght@300&display=swap');
+
+* {
+    margin:0 auto;
+    padding: 0;
+    border: none;
+    max-width: 1600px;
+}
+
+body {
+    font-family:'Lato', sans-serif;
+    font-weight: 400;
+    color:#333333;
+}
+
+/* headings and main title */
+
+h1, h2, h3 {
+    font-family:'Lato', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #1a1a1a;
+}
+
+.maintitle {
+    float: left;
+    font-size: 200%;
+    margin-left: 20px;
+    height: 65px;
+}
