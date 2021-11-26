@@ -193,6 +193,39 @@ h1, h2, h3 {
 }
 
 
+/* hover text in image */
+
+.textoverimage {
+   
+    background-size: 100%;
+    background-position: center ; 
+}
+.textoverimage:hover {
+    background-size: cover;
+}
+.textoverimage:after {
+    position: absolute;
+    top: 100%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    word-wrap: break-word;
+    overflow: hidden;  
+    font: bold;
+    font-weight: 500;
+    color:#fff;
+    opacity: 0;
+    content: attr(data-text);
+    transition: 0.5s;
+}
+
+.textoverimage:hover:after {
+ opacity: 1;
+ top: 0;
+ padding:8px;
+}
+
+
  /* sign up section */
 
 
