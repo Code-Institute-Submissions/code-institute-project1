@@ -217,7 +217,7 @@ h1, h2, h3 {
     color:#fff;
     opacity: 0;
     content: attr(data-text);
-    transition: 0.5s;
+  
 }
 
 .textoverimage:hover:after {
