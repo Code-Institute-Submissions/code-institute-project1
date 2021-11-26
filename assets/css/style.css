@@ -28,3 +28,25 @@ h1, h2, h3 {
     margin-left: 20px;
     height: 65px;
 }
+
+/*   footer section */
+
+.foot {
+    height: 50px;
+    width: 1400px;
+    border: 1px solid black;
+    margin-top: 10px;
+    background-color: maroon;
+    text-align: center;
+}
+
+.social > li {
+    display: inline;
+}
+
+.social i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 3%;
+    color: #3a3a3a;
+}
