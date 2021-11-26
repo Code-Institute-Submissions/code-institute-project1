@@ -29,6 +29,29 @@ h1, h2, h3 {
     height: 65px;
 }
 
+/* navigation bar */
+
+.nav {
+    height: 65px;
+
+}
+
+#navbar {
+    font-size: 130%;
+    letter-spacing: 3px;
+}
+
+#maintitle #navbar {
+    height: 85px;
+    position: relative;
+}
+
+#navbar li{
+    float: right;
+    margin-right: 30px;
+    list-style-type: none;
+}
+
  /* sign up section */
 
 
