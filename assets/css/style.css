@@ -196,13 +196,14 @@ h1, h2, h3 {
 /* hover text in image */
 
 .textoverimage {
-   
     background-size: 100%;
     background-position: center ; 
 }
+
 .textoverimage:hover {
     background-size: cover;
 }
+
 .textoverimage:after {
     position: absolute;
     top: 100%;
