@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Merriweather&family=Oswald:wght@300&family=Source+Sans+Pro:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Merriweather&family=Oswald:wght@300;400&family=Source+Sans+Pro:wght@300&display=swap');
 *  {
 margin: 0 auto;
 padding: 0;
@@ -8,7 +7,7 @@ max-width: 1400px;
 }
 
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-weight:400;
     color: #333333;
 }
@@ -16,7 +15,7 @@ body {
 /*headings and main title*/
 
 h1, h2, h3 {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
     color: #1a1a1a;
@@ -108,8 +107,9 @@ text-align: center;
     right: 0;
     word-wrap: break-word;
     overflow: hidden;  
-    font: bold;
+    font: bolder;
     font-weight: 500;
+    background-color: #666666;
     color:#fff;
     opacity: 0;
     content: attr(data-text);
