@@ -19,4 +19,12 @@ It will be with 12 photos with show up text about the photo itself:
 
 
  The sign up section will be only with name and email with red subscribe button and a contrast background which is taken out from pixaby.com.
+
+
+
+ The About us is simple with bright  contrast background  clean text layout with a air photo of the real place taken from the original website of the shop. https://carmarthencameras.com/
+
+
+
+ The footer is with the names not the icons it gives a nice clean look and contrast.
   
