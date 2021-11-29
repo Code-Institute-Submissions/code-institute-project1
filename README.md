@@ -8,4 +8,15 @@ you have a header above it a main title
 after that a section where will be the brief information about the period for which is that page.
 it will be in a simple layout with a scroll bar for easy reading.
 
+
+
+
+The main section will be photos from the period showing the evolv of the photography
+It will be with 12 photos with show up text about the photo itself:
+ https://www.youtube.com/channel/UCU5SqAfXADk50eOjQqdsVlA
+ I use the idea of that video on youtube and i use the code showed in it.
+
+
+
+ The sign up section will be only with name and email with red subscribe button and a contrast background which is taken out from pixaby.com.
   
